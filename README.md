@@ -5,7 +5,7 @@ A C++ console application for meal ordering, tax calculation, and currency conve
 This project is a straightforward terminal-based application that simulates a restaurant's ordering and billing process. It allows users to choose from a menu of traditional chicken dishes, input their desired quantity, and instantly calculate the total cost. Beyond basic multiplication, the program implements a tiered sales tax system and provides the final bill in multiple currencies, making it a great showcase of conditional logic and basic arithmetic operations in C++.
 
 # ✨ Features
-## Interactive Menu:
+## Interactive Menu:  
 Displays a clear, formatted menu featuring various dishes (like Chicken Karahi, Chicken Tikka, and Creamy Chicken) along with their per-kg prices in Pakistani Rupees (PKR).
 
 ## Tiered Tax Calculation: 
