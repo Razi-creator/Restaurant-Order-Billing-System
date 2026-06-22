@@ -26,4 +26,5 @@ C++
 ## Libraries Used: 
 iostream
 
-Key Concepts: Uses if/else if control structures for menu selection, mathematical operators for tax and currency conversion calculations, and const variables for fixed exchange rates.
+## Key Concepts: 
+Uses if/else if control structures for menu selection, mathematical operators for tax and currency conversion calculations, and const variables for fixed exchange rates.
